@@ -26,6 +26,6 @@ Saya membuat script sederhana untuk monitoring jaringan menggunakan batch/PowerS
 
 ## 📬 Kontak
 - Email: steynbajawa@gmail.com
-- LinkedIn: [Profil LinkedIn](https://linkedin.com/in/aquilirius-steyn-gala) 
+- LinkedIn: [Profil LinkedIn](https://linkedin.com/in/aquilirius-steyn-gala-du-a) 
 - GitHub: [Repositori Portofolio](https://github.com/steynbajawa-coder/Steyn-Portofolio-TKJ) Steyn-Portofolio-TKJ
 Portofolio digital TKJ – rapor, sertifikat, dan proyek PKL.
