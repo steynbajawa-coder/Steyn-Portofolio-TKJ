@@ -1,6 +1,6 @@
 # Steyn-Portofolio-TKJ
 
-Halo! Saya Aquilirius Steyn Gala Du'a, lulusan SMK Swasta Sanjaya Ngada jurusan Teknik Komputer dan Jaringan (TKJ).  
+Halo! Saya Aquilirius Steyn Gala Du'a, lulusan SMKS Sanjaya Bajawa jurusan Teknik Komputer dan Jaringan (TKJ).  
 Saya memiliki pengalaman PKL di UD Felindo Jaya Labuan Bajo dan prestasi akademik sebagai Siswa Terbaik ke-5.
 
 ## 📚 Pendidikan
@@ -22,7 +22,7 @@ Saya memiliki pengalaman PKL di UD Felindo Jaya Labuan Bajo dan prestasi akademi
 - Script monitoring jaringan sederhana
 
 ## 📬 Kontak
-- Email: steyn@example.com
+- Email: steyngala86@gmail.com
 - LinkedIn: [Profil LinkedIn](https://linkedin.com/in/steyn)
 - GitHub: [Repositori Portofolio](https://github.com/steynbajawa-coder/Steyn-Portofolio-TKJ) Steyn-Portofolio-TKJ
 Portofolio digital TKJ – rapor, sertifikat, dan proyek PKL.
