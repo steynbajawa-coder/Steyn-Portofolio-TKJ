@@ -1,31 +1,60 @@
-# Steyn-Portofolio-TKJ
+# 🖥️ Portofolio Digital TKJ - Aquilirius Steyn Gala Du'a
 
-Halo! Saya Aquilirius Steyn Gala Du'a, lulusan SMKS Sanjaya Bajawa jurusan Teknik Komputer dan Jaringan (TKJ).  
-Saya memiliki pengalaman PKL di UD Felindo Jaya Labuan Bajo dan prestasi akademik sebagai Siswa Terbaik ke-5.
+Halo! Saya **Aquilirius Steyn Gala Du'a**, lulusan kompetensi keahlian **Teknik Komputer dan Jaringan (TKJ)** dari **SMKS Sanjaya Bajawa**. Saya memiliki spesialisasi di bidang infrastruktur jaringan, administrasi sistem, troubleshooting hardware, serta otomatisasi monitoring jaringan sederhana.
 
-## 📚 Pendidikan
-- SMKS Sanjaya Bajawa, jurusan TKJ
-- SKHUN: 89,4
-- Rata-rata rapor: 81,6
+Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik industri saya untuk keperluan seleksi masuk perguruan tinggi.
 
-## 🏆 Prestasi
-- Siswa Terbaik ke-5
-- Sertifikat PKL DUDI
+---
 
-## 📄 Sertifikat
-- [Sertifikat PKL DUDI](./PKL-DUDI.pdf)
-- [Sertifikat Siswa Terbaik ke-5](./Siswa-Terbaik-5.pdf)
- 
-## 💻 Proyek TKJ
-- Konfigurasi jaringan LAN & WLAN. 
-Saya melakukan konfigurasi jaringan LAN dan WLAN di lingkungan sekolah serta PKL, termasuk setting IP, DHCP, dan keamanan jaringan agar koneksi stabil dan aman.
-- Perawatan hardware komputer. 
-Saya melakukan perawatan dan perbaikan hardware komputer, seperti pembersihan, penggantian komponen, dan troubleshooting agar perangkat tetap optimal digunakan.
-- Script monitoring jaringan sederhana. 
-Saya membuat script sederhana untuk monitoring jaringan menggunakan batch/PowerShell, yang menampilkan status koneksi dan membantu mendeteksi gangguan lebih cepat.
+## 📚 Rekam Jejak Akademik & Prestasi
 
-## 📬 Kontak
-- Email: steynbajawa@gmail.com
-- LinkedIn: [Aquilirius Steyn Gala Du’a](https://www.linkedin.com/in/aquilirius-steyn-gala-du-a-372165412)
-- GitHub: [Repositori Portofolio](https://github.com/steynbajawa-coder/Steyn-Portofolio-TKJ) Steyn-Portofolio-TKJ
-Portofolio digital TKJ – rapor, sertifikat, dan proyek PKL.
+
+| Indikator Keberhasilan | Nilai / Capaian | Keterangan |
+| :--- | :--- | :--- |
+| **Siswa Terbaik ke-5** | Peringkat 5 Se-Angkatan | Penghargaan Akademik SMKS Sanjaya Bajawa |
+| **Nilai SKHUN (Kelulusan)** | **89,4** / 100 | Nilai Ujian Akhir Terstandar |
+| **Rata-rata Rapor** | **81,6** / 100 | Konsistensi Akademik Selama 3 Tahun |
+| **Praktik Kerja Lapangan (PKL)** | **87** / 100 | Predikat Sangat Baik di Dunia Industri |
+
+---
+
+## 💼 Pengalaman Praktik Kerja Lapangan (PKL)
+
+**Teknisi Jaringan & Sistem (Magang)**  
+*UD Felindo Jaya Labuan Bajo* | *[Tulis Tahun PKL Anda, misal: 2024]*
+
+*   **Pencapaian Utama:** Menyelesaikan program kerja praktik dengan nilai akhir **87/100** (Sangat Baik).
+*   **Kontribusi Teknis:** Bertanggung jawab dalam pemeliharaan perangkat keras toko, memastikan stabilitas jaringan lokal (LAN) untuk sistem kasir dan operasional, serta melakukan troubleshooting cepat saat terjadi gangguan koneksi.
+
+---
+
+## 💻 Dokumentasi Proyek Teknis (TKJ)
+
+### 1. Implementasi & Optimalisasi Jaringan LAN & WLAN
+*   **Deskripsi:** Mengonfigurasi jaringan lokal kabel (LAN) dan nirkabel (WLAN) di lingkungan sekolah dan tempat PKL.
+*   **Ruang Lingkup:** Melakukan segmentasi IP Address, konfigurasi DHCP Server, serta menerapkan pengamanan enkripsi Wi-Fi untuk memastikan koneksi yang stabil dan aman dari akses ilegal.
+
+### 2. Manajemen Pemeliharaan & Troubleshooting Hardware
+*   **Deskripsi:** Melakukan perawatan preventif dan perbaikan korektif pada komputer kerja.
+*   **Ruang Lingkup:** Pembersihan fisik komponen (de-dusting), penggantian pasta prosesor, upgrade RAM/Storage, serta pemulihan sistem operasi pasca-kerusakan (troubleshooting OS & Driver).
+
+### 3. Otomatisasi Script Monitoring Jaringan Sederhana
+*   **Deskripsi:** Mengembangkan skrip otomatisasi ringan untuk memantau status keaktifan perangkat di jaringan.
+*   **Teknologi:** Batch Script / PowerShell.
+*   **Fungsi:** Menampilkan status *Up/Down* koneksi host secara *real-time*, mempermudah pelaporan gangguan jaringan sebelum berdampak pada pengguna.
+
+---
+
+## 📄 Lampiran Berkas Fisik (Bukti Autentik)
+
+Semua dokumen pendukung di bawah ini dapat diakses langsung pada direktori repositori ini:
+*   [📄 Lihat Sertifikat PKL DUDI (Nilai 87)](PKL-DUDI.pdf)
+*   [🏆 Lihat Sertifikat Penghargaan Siswa Terbaik ke-5](Siswa-Terbaik-5.pdf)
+
+---
+
+## 📬 Hubungi Saya
+
+*   **Email:** [steynbajawa@gmail.com](mailto:steynbajawa@gmail.com)
+*   **LinkedIn:** [Aquilirius Steyn Gala Du'a](https://linkedin.com)
+*   **GitHub:** [steynbajawa-coder](https://github.com/steynbajawa-coder)
