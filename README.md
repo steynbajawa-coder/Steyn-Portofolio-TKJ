@@ -17,11 +17,11 @@ Saya memiliki pengalaman PKL di UD Felindo Jaya Labuan Bajo dan prestasi akademi
 - [Sertifikat Siswa Terbaik ke-5](./Siswa-Terbaik-5.pdf)
  
 ## 💻 Proyek TKJ
-- Konfigurasi jaringan LAN & WLAN
+- Konfigurasi jaringan LAN & WLAN. 
 Saya melakukan konfigurasi jaringan LAN dan WLAN di lingkungan sekolah serta PKL, termasuk setting IP, DHCP, dan keamanan jaringan agar koneksi stabil dan aman.
-- Perawatan hardware komputer
+- Perawatan hardware komputer. 
 Saya melakukan perawatan dan perbaikan hardware komputer, seperti pembersihan, penggantian komponen, dan troubleshooting agar perangkat tetap optimal digunakan.
-- Script monitoring jaringan sederhana
+- Script monitoring jaringan sederhana. 
 Saya membuat script sederhana untuk monitoring jaringan menggunakan batch/PowerShell, yang menampilkan status koneksi dan membantu mendeteksi gangguan lebih cepat.
 
 ## 📬 Kontak
