@@ -21,7 +21,7 @@ Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik
 ## 💼 Pengalaman Praktik Kerja Lapangan (PKL)
 
 **Teknisi Jaringan & Sistem (Magang)**  
-*UD Felindo Jaya Labuan Bajo* | *[Tulis Tahun PKL Anda, misal: 2024]*
+*UD Felindo Jaya Labuan Bajo* | *[Tahun PKL 2024]*
 
 *   **Pencapaian Utama:** Menyelesaikan program kerja praktik dengan nilai akhir **87/100** (Sangat Baik).
 *   **Kontribusi Teknis:** Bertanggung jawab dalam pemeliharaan perangkat keras toko, memastikan stabilitas jaringan lokal (LAN) untuk sistem kasir dan operasional, serta melakukan troubleshooting cepat saat terjadi gangguan koneksi.
