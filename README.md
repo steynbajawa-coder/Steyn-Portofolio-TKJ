@@ -43,8 +43,8 @@ Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik
 *   **Teknologi:** Batch Script / PowerShell.
 *   **Fungsi:** Menampilkan status *Up/Down* koneksi host secara *real-time*, mempermudah pelaporan gangguan jaringan sebelum berdampak pada pengguna.
 
----## 📸 Dokumentasi Proyek TKJ
-- [Dokumentasi Foto Proyek Teknis TKJ](./Dokumentasi/Dokumentasi%20foto%20proyek%20teknis%20tkj.pdf)
+## 📸 Dokumentasi Proyek TKJ
+[Dokumentasi Foto Proyek Teknis TKJ](./Dokumentasi/Dokumentasi%20foto%20proyek%20teknis%20tkj.pdf)
 
 ## 📄 Lampiran Berkas Fisik (Bukti Autentik)
 
