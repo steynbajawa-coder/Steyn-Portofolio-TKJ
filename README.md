@@ -38,7 +38,7 @@ Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik
   * Mengelola pencatatan administrasi, notulensi rapat, dan kearsipan berkas resmi organisasi.
   * Membantu menjamin transparansi dan kelancaran program kerja antar kelas di lingkungan sekolah.
 * **Dokumentasi:**
-  ![Sekretaris MPK](URL_FOTO_ATAU_SERTIFIKAT_MPK_DI_SINI
+  ![Dokumentasi MPK](https://github.com/steynbajawa-coder/Steyn-Portofolio-TKJ/blob/main/dokumen%20kegiatan%20mpk.pdf) 
 ---
 
 ## 💼 Pengalaman Praktik Kerja Lapangan (PKL)
