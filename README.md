@@ -26,7 +26,7 @@ Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik
   * Mengoordinasikan pembagian tugas anggota agar seluruh penugasan kelompok selesai tepat waktu.
   * Menjaga komunikasi internal, disiplin, dan kekompakan tim selama kegiatan berlangsung.
 * **Dokumentasi:**
-  ![Ketua Kelompok Robotic](URL_FOTO_ROBOTIC_ANDA_DI_SINI)
+  ![Ketua Kelompok Robotic](https://github.com/steynbajawa-coder/Steyn-Portofolio-TKJ/blob/main/bukti%20ketua%20kelompok.pdf)
 
 ---
 
