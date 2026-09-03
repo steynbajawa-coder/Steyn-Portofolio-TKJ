@@ -16,6 +16,29 @@ Portofolio ini disusun sebagai bukti dokumentasi kompetensi akademis dan praktik
 | **Rata-rata Rapor** | **81,6** / 100 | Konsistensi Akademik Selama 3 Tahun |
 | **Praktik Kerja Lapangan (PKL)** | **87** / 100 | Predikat Sangat Baik di Dunia Industri |
 
+## 👥 Dokumentasi Kepemimpinan & Organisasi
+
+### 1. Ketua Kelompok Robotic – Ospek FTK Undiksha (2026)
+
+* **Deskripsi:** Memimpin dan mengoordinasikan kelompok "Robotic" selama rangkaian kegiatan Ospek Fakultas Teknik dan Kejuruan (FTK) Universitas Pendidikan Ganesha.
+* **Peran & Tanggung Jawab:**
+  * Menyusun jadwal latihan terstruktur dan mengarahkan koreografi/gerakan untuk penampilan pentas seni kelompok.
+  * Mengoordinasikan pembagian tugas anggota agar seluruh penugasan kelompok selesai tepat waktu.
+  * Menjaga komunikasi internal, disiplin, dan kekompakan tim selama kegiatan berlangsung.
+* **Dokumentasi:**
+  ![Ketua Kelompok Robotic](URL_FOTO_ROBOTIC_ANDA_DI_SINI)
+
+---
+
+### 2. Sekretaris MPK – SMKS Sanjaya Bajawa (2024 – 2025)
+
+* **Deskripsi:** Mengelola administrasi dan koordinasi pengawasan kinerja organisasi siswa pada Majelis Perwakilan Kelas (MPK).
+* **Peran & Tanggung Jawab:**
+  * Memantau pelaksanaan kegiatan di lapangan dan mengalirkan laporan evaluasi secara berkala kepada Ketua MPK.
+  * Mengelola pencatatan administrasi, notulensi rapat, dan kearsipan berkas resmi organisasi.
+  * Membantu menjamin transparansi dan kelancaran program kerja antar kelas di lingkungan sekolah.
+* **Dokumentasi:**
+  ![Sekretaris MPK](URL_FOTO_ATAU_SERTIFIKAT_MPK_DI_SINI
 ---
 
 ## 💼 Pengalaman Praktik Kerja Lapangan (PKL)
